@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360880078134",
+    "project_id": "thequizofmid",
+    "storage_bucket": "thequizofmid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360880078134:android:798e62ae61fccff9b44797",
+        "android_client_info": {
+          "package_name": "com.example.the_quiz_app_mid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuBTRIXCbQZiQ-n0pzNY766-YnP0VmbRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
